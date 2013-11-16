@@ -6,6 +6,7 @@
 # Packages
 *.egg
 *.egg-info
+tmp
 dist
 build
 eggs
@@ -28,8 +29,3 @@ nosetests.xml
 
 # Translations
 *.mo
-
-# Mr Developer
-.mr.developer.cfg
-.project
-.pydevproject
